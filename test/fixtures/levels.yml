@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  max_score: 1
+  min_score: 1
+  description: MyText
+
+two:
+  name: MyString
+  max_score: 1
+  min_score: 1
+  description: MyText
